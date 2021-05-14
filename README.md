@@ -1,2 +1,2 @@
 # vgsales_eda
-Analyzing videogames sales and making focus on the storytelling. 
+My first ever solo project, in which i will analyze videogames sales and try to make focus on the storytelling. 
